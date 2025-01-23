@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Player 1",
+    "age": 28,
+    "score_daily": "50",
+    "score_yearly": "1500",
+    "best_performance": "100*",
+    "wickets": 5,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "team": "Team A"
+  },
+  {
+    "name": "Player 2",
+    "age": 30,
+    "score_daily": "60",
+    "score_yearly": "1800",
+    "best_performance": "120*",
+    "wickets": 3,
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm orthodox",
+    "team": "Team B"
+  },
+  {
+    "name": "Player 3",
+    "age": 26,
+    "score_daily": "45",
+    "score_yearly": "1350",
+    "best_performance": "80*",
+    "wickets": 8,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "team": "Team C"
+  },
+  {
+    "name": "Player 4",
+    "age": 32,
+    "score_daily": "70",
+    "score_yearly": "2100",
+    "best_performance": "150*",
+    "wickets": 2,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "team": "Team A"
+  },
+  {
+    "name": "Player 5",
+    "age": 24,
+    "score_daily": "55",
+    "score_yearly": "1650",
+    "best_performance": "95*",
+    "wickets": 6,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast",
+    "team": "Team B"
+  },
+  {
+    "name": "Player 6",
+    "age": 27,
+    "score_daily": "60",
+    "score_yearly": "1800",
+    "best_performance": "110*",
+    "wickets": 4,
+    "batting_style": "Right-handed",
+    "bowling_style": "Left-arm orthodox",
+    "team": "Team C"
+  },
+  {
+    "name": "Player 7",
+    "age": 29,
+    "score_daily": "75",
+    "score_yearly": "2250",
+    "best_performance": "130*",
+    "wickets": 7,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "team": "Team A"
+  },
+  {
+    "name": "Player 8",
+    "age": 31,
+    "score_daily": "50",
+    "score_yearly": "1500",
+    "best_performance": "90*",
+    "wickets": 3,
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm orthodox",
+    "team": "Team B"
+  },
+  {
+    "name": "Player 9",
+    "age": 28,
+    "score_daily": "65",
+    "score_yearly": "1950",
+    "best_performance": "100*",
+    "wickets": 5,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "team": "Team C"
+  },
+  {
+    "name": "Player 10",
+    "age": 33,
+    "score_daily": "80",
+    "score_yearly": "2400",
+    "best_performance": "160*",
+    "wickets": 4,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium",
+    "team": "Team A"
+  }
+]
