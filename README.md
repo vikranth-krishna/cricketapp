@@ -39,7 +39,7 @@ The **Cricket Player Management App** is a Flutter-based application designed to
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/cricket-player-management.git
+   git clone https://github.com/vikranth-krishna/cricketapp.git
    cd cricket-player-management
    ```
 2. **Install Dependencies**:
